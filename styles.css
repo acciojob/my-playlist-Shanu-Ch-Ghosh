@@ -1,5 +1,5 @@
 body{
-    background-color:lightgrey;
+   background-color: rgb(204, 204, 204);
     }
     
 h1  {
@@ -38,10 +38,10 @@ h1  {
         background-color:white;
         border-radius: 8px;
     }
- #vedioplay{
+ .player_one{
         width:600px;
     }
-#audioplay{
+.player_two{
         width:600px;
     }
 		
